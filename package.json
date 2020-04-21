@@ -1,0 +1,24 @@
+{
+  "name": "dev-test-server",
+  "version": "0.1.0",
+  "description": "Contact Github API and do data processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "GetCommitCounts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WendyWarrenZA"
+  },
+  "keywords": [
+    "/"
+  ],
+  "author": "Wendy Warren",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "got": "^11.0.0"
+  }
+}
