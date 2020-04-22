@@ -6,6 +6,9 @@ This project was created with Node.js
 
 ## Available Scripts
 
+If this is the first time you are running the project, in the project directory please run: 
+### `npm install .`
+
 In the project directory, you can run:
 
 ### `node server.js`
